@@ -1,0 +1,7 @@
+﻿  main.cpp
+  FBullCowGame.cpp
+e:\_temp\udemy - learn c++ by making games\section_02\bullcowgame\fbullcowgame.cpp(18): warning C4267: 'return': conversion from 'size_t' to 'int32', possible loss of data
+e:\_temp\udemy - learn c++ by making games\section_02\bullcowgame\fbullcowgame.cpp(25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\_temp\udemy - learn c++ by making games\section_02\bullcowgame\fbullcowgame.cpp(72): warning C4267: 'initializing': conversion from 'size_t' to 'int32', possible loss of data
+  Generating Code...
+  BullCowGame.vcxproj -> E:\_temp\Udemy - Learn C++ by Making Games\Section_02\x64\Debug\BullCowGame.exe
